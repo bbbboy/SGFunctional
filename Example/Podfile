@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '8.0'
+
+target 'SGFunctional_Example' do
+  pod 'SGFunctional', :path => '../'
+
+  target 'SGFunctional_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
