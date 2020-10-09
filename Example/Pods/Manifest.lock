@@ -1,0 +1,23 @@
+PODS:
+  - MBProgressHUD (1.2.0)
+  - SGFunctional (0.1.0):
+    - MBProgressHUD
+
+DEPENDENCIES:
+  - SGFunctional (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - MBProgressHUD
+
+EXTERNAL SOURCES:
+  SGFunctional:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SGFunctional: 9c10700482b6241e214398faf67ec0ae176eb913
+
+PODFILE CHECKSUM: 3501a329403e580f49b32ef94ec4bd8f9e0aa717
+
+COCOAPODS: 1.9.3

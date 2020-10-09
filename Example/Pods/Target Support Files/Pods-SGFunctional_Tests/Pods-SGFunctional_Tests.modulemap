@@ -1,0 +1,6 @@
+framework module Pods_SGFunctional_Tests {
+  umbrella header "Pods-SGFunctional_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

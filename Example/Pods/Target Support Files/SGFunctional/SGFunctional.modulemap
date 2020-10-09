@@ -1,0 +1,6 @@
+framework module SGFunctional {
+  umbrella header "SGFunctional-umbrella.h"
+
+  export *
+  module * { export * }
+}

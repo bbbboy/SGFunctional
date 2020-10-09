@@ -1,0 +1,32 @@
+{
+  "name": "SGFunctional",
+  "version": "0.1.0",
+  "summary": "组件初始化",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/bbbboy/SGFunctional",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "bbbboy": "635211059@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/bbbboy/SGFunctional.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "SGFunctional/Classes/**/*",
+  "resource_bundles": {
+    "SGFunctional": [
+      "SGFunctional/Assets/*.png"
+    ]
+  },
+  "dependencies": {
+    "MBProgressHUD": [
+
+    ]
+  }
+}
